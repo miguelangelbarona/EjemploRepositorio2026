@@ -10,4 +10,8 @@ package models;
  */
 public class Carro {
     
+        private int idCarro;
+        private String marca;
+        private String modelo;
+              
 }
